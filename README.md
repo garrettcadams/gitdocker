@@ -1,2 +1,0 @@
-# gitdocker
-Docker autoinstaller script
